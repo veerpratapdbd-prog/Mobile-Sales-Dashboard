@@ -79,4 +79,7 @@ It helps in analyzing:
 📧 **veerpratapdbd@gmail.com**  
 💼 Passionate about Data Analytics & Business Intelligence  
 ---
+Screenshot 
+Mobile Sales dashboard 
+https://github.com/veerpratapdbd-prog/Mobile-Sales-Dashboard/blob/main/Mobile_Sales_dasboard.png
 ⭐ *If you like this project, don't forget to star the repository!*
