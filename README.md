@@ -81,5 +81,4 @@ It helps in analyzing:
 ---
 Screenshot 
 Mobile Sales dashboard 
-https://github.com/veerpratapdbd-prog/Mobile-Sales-Dashboard/blob/main/Mobile_Sales_dasboard.png
-⭐ *If you like this project, don't forget to star the repository!*
+![Sales Dashboard] (https://github.com/veerpratapdbd-prog/Mobile-Sales-Dashboard/blob/main/Mobile_Sales_dasboard.png)
